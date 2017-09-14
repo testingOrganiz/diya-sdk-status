@@ -5,7 +5,7 @@
   "authors": [
     "Sylvain Mahé <sylv.mahe@gmail.com>"
   ],
-  "description": "SDK for accessing Diya One services",
+  "description": "SDK for accessing Diya One status service",
   "main": "build/status.min.js",
   "keywords": [
     "Diya",
